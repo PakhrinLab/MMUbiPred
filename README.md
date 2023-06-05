@@ -14,6 +14,6 @@ Please place the Plant_Dataset_Independent_Test_Set_Assessment.ipynb, aaindex31.
 
 *** For your convenience we have uploaded the aaindex31.txt feature file 
 
-*** All preliminary data required are uploaded at (https://drive.google.com/drive/folders/1Bcx55mlv4FKqK2XVTww8XBaNqocnP71q?usp=sharing)
+*** All preliminary data required are uploaded at https://drive.google.com/drive/folders/1Bcx55mlv4FKqK2XVTww8XBaNqocnP71q?usp=sharing
 
 If you need any futher help please contact Dr. Subash C. Pakhrin at pakhrins@uhd.edu.
