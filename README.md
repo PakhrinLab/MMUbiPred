@@ -7,7 +7,7 @@ Ubiquitination is a crucial post-translational modification regulating various b
 ## Significance Statement
 MMUbiPred represents a significant advancement in ubiquitination site prediction by utilizing multimodal deep learning techniques with a robust and comprehensive dataset. This framework surpasses existing predictors in accuracy and reliability across general, human-specific, and plant-specific datasets. By providing a powerful tool for identifying ubiquitination sites, MMUbiPred facilitates deeper insights into ubiquitination mechanisms, advancing our understanding of critical cellular processes and disease mechanisms.
 
-## Evaluate Model
+## System Requirements
 Programs were executed using anaconda version: 2020.07, please use the same
 
 The programs were developed in the following environment. python : 3.8.3.final.0, python-bits : 64, OS : Linux, OS-release : 5.8.0-38-generic, machine : x86_64, processor : x86_64, pandas : 1.0.5, numpy : 1.18.5, pip : 20.1.1, scipy : 1.4.1, scikit-learn : 0.23.1., keras : 2.4.3, tensorflow : 2.3.1.
