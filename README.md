@@ -28,5 +28,5 @@ Please place the Plant_Dataset_Independent_Test_Set_Assessment.ipynb, aaindex31.
 https://drive.google.com/drive/folders/1Bcx55mlv4FKqK2XVTww8XBaNqocnP71q?usp=sharing
 
 ## Help and Contact
-If you need any help please contact Dr. Subash C. Pakhrin at pakhrins@uhd.edu.
+If you need any help please contact Dr. Subash C. Pakhrin at pakhrins@uhd.edu
 https://www.uhd.edu/faculty/pakhrins.aspx
