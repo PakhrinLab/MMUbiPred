@@ -12,8 +12,6 @@ Please place the Human_Dataset_Independent_Test_Set_Assessment.ipynb, aaindex31.
 
 Please place the Plant_Dataset_Independent_Test_Set_Assessment.ipynb, aaindex31.txt, Positive_UbiCom_testing.fasta, Negative_UbiCom_testing.fasta, and UBICOMB_DeepUBI_AAindex_One_Hot_ProtT5_drop_out_Changed3257.h5 in the same directory where you will execute the python program. Execute the Plant_Dataset_Independent_Test_Set_Assessment.ipynb python program to obtain the reported result for plant ubiquitination sites.
 
-*** For your convenience we have uploaded the aaindex31.txt feature file 
-
 *** All preliminary data and models required are uploaded at https://drive.google.com/drive/folders/1Bcx55mlv4FKqK2XVTww8XBaNqocnP71q?usp=sharing
 
 If you need any futher help please contact Dr. Subash C. Pakhrin at pakhrins@uhd.edu.
