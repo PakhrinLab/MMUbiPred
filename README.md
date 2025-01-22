@@ -1,5 +1,5 @@
 # MMUbiPred
-A multi-modal encoding-based deep learning approach for prediction of protein ubiquitination site prediction
+Multimodal deep learning for predicting protein ubiquitination sites
 
 ## Evaluate Model
 Programs were executed using anaconda version: 2020.07, recommended to install the same
