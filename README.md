@@ -1,6 +1,12 @@
 # MMUbiPred
 Multimodal deep learning for predicting protein ubiquitination sites
 
+## Abstract
+Ubiquitination is a crucial post-translational modification regulating various biological functions. In this study, we present MMUbiPred, a deep learning-based approach for predicting ubiquitination sites across general, human-specific, and plant-specific datasets. Protein sequence fragments around ubiquitination and non-ubiquitination sites were encoded using one-hot encoding, embeddings, and physicochemical properties, processed through deep learning architectures, and combined with a multi-layer perceptron to form the final model. MMUbiPred achieved 77.25% accuracy, 74.98% sensitivity, 80.67% specificity, 0.54 Matthew’s correlation coefficient, and an AUC of 0.87 on an independent test set, outperforming other leading predictors. A robust predictor and ubiquitination dataset has been developed, providing a valuable resource for benchmarking and discovering unknown ubiquitination sites and advancing knowledge in the field.
+
+## Significance Statement
+MMUbiPred represents a significant advancement in ubiquitination site prediction by utilizing multimodal deep learning techniques with a robust and comprehensive dataset. This framework surpasses existing predictors in accuracy and reliability across general, human-specific, and plant-specific datasets. By providing a powerful tool for identifying ubiquitination sites, MMUbiPred facilitates deeper insights into ubiquitination mechanisms, advancing our understanding of critical cellular processes and disease mechanisms.
+
 ## Evaluate Model
 Programs were executed using anaconda version: 2020.07, please use the same
 
