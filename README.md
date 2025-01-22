@@ -29,3 +29,4 @@ https://drive.google.com/drive/folders/1Bcx55mlv4FKqK2XVTww8XBaNqocnP71q?usp=sha
 
 ## Help and Contact
 If you need any help please contact Dr. Subash C. Pakhrin at pakhrins@uhd.edu.
+https://www.uhd.edu/faculty/pakhrins.aspx
