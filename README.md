@@ -8,7 +8,7 @@ Ubiquitination is a crucial post-translational modification regulating various b
 MMUbiPred represents a significant advancement in ubiquitination site prediction by utilizing multimodal deep learning techniques with a robust and comprehensive dataset. This framework surpasses existing predictors in accuracy and reliability across general, human-specific, and plant-specific datasets. By providing a powerful tool for identifying ubiquitination sites, MMUbiPred facilitates deeper insights into ubiquitination mechanisms, advancing our understanding of critical cellular processes and disease mechanisms.
 
 <br>
-<img max-width = 100% alt="image" src="https://github.com/PakhrinLab/Stack-OglyPred-PLM/blob/main/Stack-OglyPred-PLM.jpg](https://github.com/PakhrinLab/MMUbiPred/blob/main/UBIQUITINATION_Draft_1_Colored.png">
+<img max-width = 100% alt="image" src="https://github.com/PakhrinLab/MMUbiPred/blob/main/UBIQUITINATION_Draft_1_Colored.png">
 The comprehensive framework for MMUbiPred
 <br>
 <br>
