@@ -9,7 +9,7 @@ MMUbiPred represents a significant advancement in ubiquitination site prediction
 
 <br>
 <img max-width = 100% alt="image" src="https://github.com/PakhrinLab/MMUbiPred/blob/main/UBIQUITINATION_Draft_1_Colored.png">
-## The comprehensive framework for MMUbiPred
+The comprehensive framework for MMUbiPred
 <br>
 <br>
 
