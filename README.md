@@ -33,6 +33,7 @@ Please place the Plant_Dataset_Independent_Test_Set_Assessment.ipynb, aaindex31.
 ## All Data, programs and models can be found in the following link or its available on the same GitHub page
 
 https://drive.google.com/drive/folders/1Bcx55mlv4FKqK2XVTww8XBaNqocnP71q?usp=sharing
+https://drive.google.com/drive/folders/1ttz00aMSRZDKM5A_v1bvrBuLdacWHbNY?usp=drive_link
 
 ## Help and Contact
 If you need any help please contact Dr. Subash C. Pakhrin at pakhrins@uhd.edu
