@@ -13,8 +13,8 @@ The comprehensive framework for MMUbiPred
 <br>
 <br>
 
-## How can anybody run this? 
-Please open the MMUbiPred_Prediction.ipynb notebook and load the pre-trained model Shrestha_et_al_AAindex_one_hot_and_keras_embedding42.h5 in Jupyter Notebook. To get predictions, simply replace the protein name B4DU15 with any UniProt ID of your choice—the sequence will be automatically downloaded from UniProt. Make sure to run all the cells in the notebook.
+## How can anybody use this? 
+Please use the MMUbiPred_Prediction.ipynb notebook and load the pre-trained model Shrestha_et_al_AAindex_one_hot_and_keras_embedding42.h5 in Jupyter Notebook. To get predictions, simply replace the protein name B4DU15 with any UniProt ID of your choice—the sequence will be automatically downloaded from UniProt. Make sure to run all the cells in the notebook.
 
 The Jupyter notebook and trained model can be found in the following googledrive link:
 https://drive.google.com/drive/folders/1Kigw_x6ciErydoj8N1yYuVtS1_KvUoAP?usp=drive_link
