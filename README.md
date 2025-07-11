@@ -38,6 +38,12 @@ Kindly transfer all the data from the following Google Drive link (https://drive
 https://drive.google.com/drive/folders/1Bcx55mlv4FKqK2XVTww8XBaNqocnP71q?usp=sharing
 https://drive.google.com/drive/folders/1ttz00aMSRZDKM5A_v1bvrBuLdacWHbNY?usp=drive_link
 
+## How can anybody run this? 
+Please open the MMUbiPred_Prediction.ipynb notebook and load the pre-trained model Shrestha_et_al_AAindex_one_hot_and_keras_embedding42.h5 in Jupyter Notebook. To get predictions, simply replace the protein name B4DU15 with any UniProt ID of your choice—the sequence will be automatically downloaded from UniProt. Make sure to run all the cells in the notebook.
+
+https://drive.google.com/drive/folders/1Bcx55mlv4FKqK2XVTww8XBaNqocnP71q?usp=sharing
+https://drive.google.com/drive/folders/1ttz00aMSRZDKM5A_v1bvrBuLdacWHbNY?usp=drive_link
+
 ## Help and Contact
 If you need any help please contact Dr. Subash C. Pakhrin at pakhrins@uhd.edu
 https://www.uhd.edu/faculty/pakhrins.aspx
