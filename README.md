@@ -46,6 +46,9 @@ https://drive.google.com/drive/folders/1ttz00aMSRZDKM5A_v1bvrBuLdacWHbNY?usp=dri
 https://drive.google.com/drive/folders/1Bcx55mlv4FKqK2XVTww8XBaNqocnP71q?usp=sharing
 https://drive.google.com/drive/folders/1ttz00aMSRZDKM5A_v1bvrBuLdacWHbNY?usp=drive_link
 
+## If you find the data, model, methodology, and idea of research useful, please cite it using the following link
+Subash C Pakhrin, Moriah R Beck, Punjan Subedi, Rabina Lama, Simonsha Shrestha, Multimodal deep learning for predicting protein ubiquitination sites, Bioinformatics Advances, Volume 5, Issue 1, 2025, vbaf200, https://doi.org/10.1093/bioadv/vbaf200
+
 ## Help and Contact
 If you need any help please contact Dr. Subash C. Pakhrin at pakhrins@uhd.edu
 https://www.uhd.edu/faculty/pakhrins.aspx
